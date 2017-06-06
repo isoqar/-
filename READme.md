@@ -1,12 +1,12 @@
-## ΚΙΝΗΤΑ ΚΑΙ ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ
+# ΚΙΝΗΤΑ ΚΑΙ ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ
 
 
-### Νάνου Ναστικά-Ναυσικά
-# Π2013015
-### Twitter Sentiment Analysis
+## Νάνου Ναστικά-Ναυσικά
+## Π2013015
+#### Twitter Sentiment Analysis
 
 
-# Παραδοτέο 1
+### Παραδοτέο 1
 
 Παρεμβάσεις στα χρώματα:
 
@@ -25,7 +25,7 @@ oks,piqued,prick,rapist,rant,rejoiced,remorse,sappy,scapegoat,slam,son-of-a-bitc
 subpoena,sullen,timid,totalitarianism,whimsical
 
 
-# Παραδοτέο 2
+### Παραδοτέο 2
 
 Μετάφραση Λέξεων: deft=επιτήδειος, earnest=ειλικρινής, eerie=ανατριχιαστικός, ennui=ανία, fascinates=γοητεύεις, 
 fiasco=παταγώδης αποτυχία, felonies=κακουργήματα, hid=κρύβω, inept=ανίκανος, keen=επιμελής, manslaughter=ανθρωποκτονία, 
@@ -43,7 +43,7 @@ https://github.com/isoqar/twitter-stream-globe/blob/%CE%BC%CE%B5%CF%84%CE%AC%CF%
 Η διεύθυνση (url) της ιστοσελίδας μου με την εφαρμογή https://aizo1.herokuapp.com/
 
 
-# Παραδοτέο 3
+### Παραδοτέο 3
 
 -Αύξηση ταχύτητας: 
 Link: https://github.com/isoqar/twitter-stream-globe/blob/%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1%CF%82/public/javascripts/TwitterStreamGlobe.js
@@ -56,7 +56,7 @@ Link: https://github.com/isoqar/twitter-stream-globe/blob/%CE%B1%CE%BB%CE%BB%CE%
 
 
 
-## Τελική Αναφορά
+### Τελική Αναφορά
 
 Με την ολοκρήρωση της εργασίας στο μάθημα Κινητά και Κοινωνικά Μέσα του καθηγητή Κ. Χωριανόπουλου μελέτησα την χρήση του 
 github.Κατάφερα να αναδιαμορφώσω τον ετοιμο κώδικα που λάβαμε ως ένα δικό μου κώδικα με τα δικά μου στοιχεία που πρόσθεσα 
