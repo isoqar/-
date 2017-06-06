@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+## ΚΙΝΗΤΑ ΚΑΙ ΚΟΙΝΩΝΙΚΑ ΜΕΣΑ
 
-You can use the [editor on GitHub](https://github.com/isoqar/TELIKI-ANAFORA.md/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Νάνου Ναστικά-Ναυσικά
+# Π2013015
+### Twitter Sentiment Analysis
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Παραδοτέο 1
 
-```markdown
-Syntax highlighted code block
+Παρεμβάσεις στα χρώματα:
 
-# Header 1
-## Header 2
-### Header 3
+Έντονα θετικό συναίσθημα: Μπλε
 
-- Bulleted
-- List
+Θετικό συναίσθημα: Γαλάζιο
 
-1. Numbered
-2. List
+Αρνητικό συναίσθημα: Κόκκινο
 
-**Bold** and _Italic_ and `Code` text
+Έντονα αρνητικό συναίσθημα: Μώβ
 
-[Link](url) and ![Image](src)
-```
+Λέξεις που θα μεταφραστούν: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+deft,earnest,eerie,ennui,fascinates,fiasco,felonies,hid,inept,keen,manslaughter,meditative, murky,
+oks,piqued,prick,rapist,rant,rejoiced,remorse,sappy,scapegoat,slam,son-of-a-bitch,stout, suave,
+subpoena,sullen,timid,totalitarianism,whimsical
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isoqar/TELIKI-ANAFORA.md/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Παραδοτέο 2
 
-### Support or Contact
+Μετάφραση Λέξεων: deft=επιτήδειος, earnest=ειλικρινής, eerie=ανατριχιαστικός, ennui=ανία, fascinates=γοητεύεις, 
+fiasco=παταγώδης αποτυχία, felonies=κακουργήματα, hid=κρύβω, inept=ανίκανος, keen=επιμελής, manslaughter=ανθρωποκτονία, 
+meditative=στοχαστικός, murky=θολός, oks=σύμφωνοι, piqued=θυμός, prick=τρυπάω, rapist=βιαστής, rant=παραλήρημα, 
+rejoiced=χαρούμενος, remorse=τύψη, sappy=γλυκανάλατος, scapegoat=αποδιοπομπαίος τράγος, slam=κοπανάω, 
+son-of-a-bitch=καθίκι, stout=στρουμπουλός, suave=μειλίχιος, subpoena=κλήτευση, sullen=μουντός, 
+timid=δειλός, totalitarianism=ολοκληρωτισμός, whimsical=ιδιόρρυθμος
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Link twitter-stream-globe/public/javascripts/TweetBeacon.js 
+https://github.com/isoqar/twitter-stream-globe/blob/%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%87%CF%81%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD/public/javascripts/TweetBeacon.js
+
+-Link twitter-stream-globe/AFINN-translateToGreek165.txt 
+https://github.com/isoqar/twitter-stream-globe/blob/%CE%BC%CE%B5%CF%84%CE%AC%CF%86%CF%81%CE%B1%CF%83%CE%B7-%CE%BB%CE%AD%CE%BE%CE%B5%CF%89%CE%BD/AFINN-translateToGreek165.txt
+
+Η διεύθυνση (url) της ιστοσελίδας μου με την εφαρμογή https://aizo1.herokuapp.com/
+
+
+# Παραδοτέο 3
+
+-Αύξηση ταχύτητας: 
+Link: https://github.com/isoqar/twitter-stream-globe/blob/%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%84%CE%B1%CF%87%CF%8D%CF%84%CE%B7%CF%84%CE%B1%CF%82/public/javascripts/TwitterStreamGlobe.js
+
+-Περιορισμός περιοχής προέλευσης των tweets //Η περιοχή προέλευσης των tweets ειναι στη Hiroshima. 
+Link: https://github.com/isoqar/twitter-stream-globe/blob/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%87%CE%AE%CF%82/tweet-publisher/index.js
+
+-Αλλαγή εικόνας του πλανήτη: 
+Link: https://github.com/isoqar/twitter-stream-globe/blob/%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE-%CF%83%CF%84%CE%B7%CE%BD-%CF%85%CF%86%CE%AE/public/images/earth7.jpg
+
+
+
+## Τελική Αναφορά
+
+Με την ολοκρήρωση της εργασίας στο μάθημα Κινητά και Κοινωνικά Μέσα του καθηγητή Κ. Χωριανόπουλου μελέτησα την χρήση του 
+github.Κατάφερα να αναδιαμορφώσω τον ετοιμο κώδικα που λάβαμε ως ένα δικό μου κώδικα με τα δικά μου στοιχεία που πρόσθεσα 
+όπως η εικόνα της γης, τα συναισθήματα με αναλογία στο χρώμα που νιώθουν σε ένα κομμάτι της γης το οποίο διάλεξα να είναι 
+η Hiroshmima στην Ιαπωνία.Έχουν μεταφραστεί 30 λέξεις απο τις οποίες δόθηκαν
+Ασχολήθηκα με τα εξής εργαλεία:
+-Github
+-Heroku
+-PubNub
+-TwitterApp
+-Google
+
+Η διεύθυνση (url) της ιστοσελίδας μου με την εφαρμογή https://aizo1.herokuapp.com/
+
+### Συμπέρασμα
+
+
+
+
